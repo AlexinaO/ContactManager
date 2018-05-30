@@ -1,2 +1,7 @@
 ﻿Leclerc;Vincent;vleclerc@inow.fr
+Leclerc;Vincent;vleclerc@inow.fr
+Laniel;Jessy;jessy@laniel.me
+Le Grand;Thomas;mail@mail.com
+Siméon;Antoine;antoine_352@hotmail.fr
+Mouchard;Florian;florian.mouchard@sfr.fr
 Bellil;Nabil.abilaz24@gmail.com

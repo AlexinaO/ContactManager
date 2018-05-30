@@ -17,6 +17,9 @@ namespace ContactsManager
             {
                 AfficherMenu();
 
+
+
+
                 string saisie = Console.ReadLine();
                 switch (saisie.ToUpper())
                 {

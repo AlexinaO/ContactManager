@@ -1,2 +1,6 @@
 ﻿Leclerc;Vincent;vleclerc@inow.fr
+<<<<<<< HEAD
 Mbaye;Fatimata;fat@nk.fr
+=======
+Laniel;Jessy;jessy@laniel.me
+>>>>>>> 8235e5d745494d47bfa5bf2bf7a55f98bf53d620
